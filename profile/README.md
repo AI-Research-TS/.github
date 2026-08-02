@@ -3,8 +3,8 @@
 # 📚 Klipin - Smart Reference & Literature Research System
 > **AI-Research-TS GitHub Organization Profile README**
 
-[![English](https://img.shields.io/badge/Language-English-red.svg)](README.md)
-[![Bahasa Indonesia](https://img.shields.io/badge/Language-Bahasa_Indonesia-blue.svg)](README.id.md)
+[![English](https://img.shields.io/badge/Language-English-red.svg)](https://github.com/AI-Research-TS/.github/blob/main/profile/README.md)
+[![Bahasa Indonesia](https://img.shields.io/badge/Language-Bahasa_Indonesia-blue.svg)](https://github.com/AI-Research-TS/.github/blob/main/profile/README.id.md)
 
 </div>
 
