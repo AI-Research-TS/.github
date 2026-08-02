@@ -1,7 +1,16 @@
-# 📚 Klipin - Smart Reference & Literature Research System
-> **AI-Research-TS GitHub Organization Reference System**
+<div align="center">
 
-Selamat datang di repository dokumentasi dan panduan utama ekosistem **Klipin - Reference System** pada organisasi **AI-Research-TS**. Sistem ini dirancang untuk mempermudah pencarian, penelaahan, klasifikasi otomatis berbasis Machine Learning (Kurikulum Merdeka), serta ringkasan & ekstraksi otomatis artikel ilmiah/jurnal pendidikan.
+# 📚 Klipin - Smart Reference & Literature Research System
+> **AI-Research-TS GitHub Organization Official Documentation**
+
+[![Bahasa Indonesia](https://img.shields.io/badge/Language-Bahasa_Indonesia-blue.svg)](README.md)
+[![English](https://img.shields.io/badge/Language-English-red.svg)](README.en.md)
+
+</div>
+
+---
+
+ Selamat datang di profil dan dokumentasi resmi organisasi GitHub **AI-Research-TS**. Sistem ini dirancang untuk mempermudah pencarian, penelaahan, klasifikasi otomatis berbasis Machine Learning (Kurikulum Merdeka), serta ringkasan & ekstraksi otomatis artikel ilmiah/jurnal pendidikan.
 
 ---
 

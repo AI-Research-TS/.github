@@ -1,5 +1,14 @@
+<div align="center">
+
 # 📚 Klipin - Smart Reference & Literature Research System
 > **AI-Research-TS GitHub Organization Profile README**
+
+[![Bahasa Indonesia](https://img.shields.io/badge/Language-Bahasa_Indonesia-blue.svg)](README.md)
+[![English](https://img.shields.io/badge/Language-English-red.svg)](README.en.md)
+
+</div>
+
+---
 
 Selamat datang di profil resmi organisasi GitHub **AI-Research-TS**. Organisasi ini menaungi seluruh layanan microservice dari ekosistem **Klipin - Reference System**, yaitu platform cerdas pencarian, penelaahan, klasifikasi otomatis berbasis Machine Learning (Kurikulum Merdeka), serta ringkasan & ekstraksi otomatis artikel ilmiah/jurnal pendidikan.
 
