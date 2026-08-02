@@ -1,16 +1,18 @@
 <div align="center">
 
-# 📚 Klipin - Smart Reference & Literature Research System
-> **AI-Research-TS GitHub Organization Profile README**
+<img src="https://raw.githubusercontent.com/AI-Research-TS/.github/main/profile/logo.png" width="180" alt="Reference System-TS Logo" style="border-radius: 20px; margin-bottom: 12px; shadow: 0 10px 25px rgba(0,0,0,0.2);" />
 
-[![English](https://img.shields.io/badge/Language-English-red.svg)](https://github.com/AI-Research-TS/.github/blob/main/README.md)
+# 📚 Klipin - Smart Reference & Literature Research System
+> **Reference System-TS GitHub Organization Profile README**
+
+[![English](https://img.shields.io/badge/Language-English-red.svg)](https://github.com/AI-Research-TS/.github/blob/main/profile/README.md)
 [![Bahasa Indonesia](https://img.shields.io/badge/Language-Bahasa_Indonesia-blue.svg)](https://github.com/AI-Research-TS/.github/blob/main/profile/README.id.md)
 
 </div>
 
 ---
 
-Selamat datang di profil resmi organisasi GitHub **AI-Research-TS**. Organisasi ini menaungi seluruh layanan microservice dari ekosistem **Klipin - Reference System**, yaitu platform cerdas pencarian, penelaahan, klasifikasi otomatis berbasis Machine Learning (Kurikulum Merdeka), serta ringkasan & ekstraksi otomatis artikel ilmiah/jurnal pendidikan.
+Selamat datang di profil resmi organisasi GitHub **Reference System-TS**. Organisasi ini menaungi seluruh layanan microservice dari ekosistem **Klipin - Reference System**, yaitu platform cerdas pencarian, penelaahan, klasifikasi otomatis berbasis Machine Learning (Kurikulum Merdeka), serta ringkasan & ekstraksi otomatis artikel ilmiah/jurnal pendidikan.
 
 ---
 
@@ -28,7 +30,7 @@ graph TD
     B -->|Database| G[Supabase PostgreSQL]
 ```
 
-### Repository Resmi Organisasi (`AI-Research-TS`)
+### Repository Resmi Organisasi (`Reference System-TS`)
 | Service | Tech Stack | Repository | Deskripsi |
 | :--- | :--- | :--- | :--- |
 | **Frontend** | Next.js 14, React, Tailwind CSS, Framer Motion | [Frontend Repository](https://github.com/AI-Research-TS/Frontend.git) | Antarmuka pengguna visual canvas, history pencarian, dan pustaka artikel. |
@@ -218,5 +220,5 @@ graph LR
 ---
 
 ## 👥 Organisasi & Pengembang
-- **Organization**: `AI-Research-TS`
+- **Organization**: `Reference System-TS`
 - **Project**: Klipin Smart Reference System

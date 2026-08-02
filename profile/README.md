@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/AI-Research-TS/.github/main/profile/logo.png" width="180" alt="Reference System-TS Logo" style="border-radius: 20px; margin-bottom: 12px; shadow: 0 10px 25px rgba(0,0,0,0.2);" />
+
 # 📚 Klipin - Smart Reference & Literature Research System
 > **Reference System-TS GitHub Organization Profile README**
 
