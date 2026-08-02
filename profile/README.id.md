@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/AI-Research-TS/.github/main/profile/logo.png" width="180" alt="Reference System-TS Logo" style="border-radius: 20px; margin-bottom: 12px; shadow: 0 10px 25px rgba(0,0,0,0.2);" />
-
 # 📚 Klipin - Smart Reference & Literature Research System
 > **Reference System-TS GitHub Organization Profile README**
 
@@ -204,7 +202,7 @@ graph LR
 1. **Deteksi & Unduh PDF Otomatis (`_find_pdf_url`)**:
    Sistem memindai halaman web jurnal (termasuk Open Journal Systems / OJS) dan mengekstrak tautan dokumen PDF secara otomatis.
 2. **Ekstraksi Teks & Pemisahan Referensi (`_extract_text_from_pdf`)**:
-   Menggunakan `PyMuPDF` (`fitz`) untuk mengurai teks naskah utama dan memisahkan bagian daftar pustaka/referensi secara akurat.
+   Menggunakan `PyMuPDF` (`fitz`) to parse full-text content and separate original bibliography sections.
 3. **Sintesis Bahasa Indonesia Berbasis LLM (`summarize`)**:
    Menggunakan API **Groq Cloud** dengan model **`llama-3.3-70b-versatile`** untuk menyintesis, menerjemahkan dokumen asing ke Bahasa Indonesia baku, dan menstrukturkan poin materi.
 4. **Output Terstruktur (Structured JSON Output)**:
