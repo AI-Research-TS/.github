@@ -1,7 +1,7 @@
 <div align="center">
 
 # 📚 Klipin - Smart Reference & Literature Research System
-> **AI-Research-TS GitHub Organization Official Documentation**
+> **Reference System-TS GitHub Organization Official Documentation**
 
 [![English](https://img.shields.io/badge/Language-English-red.svg)](README.md)
 [![Bahasa Indonesia](https://img.shields.io/badge/Language-Bahasa_Indonesia-blue.svg)](README.id.md)
@@ -10,7 +10,7 @@
 
 ---
 
-Welcome to the official profile and documentation of the **AI-Research-TS** GitHub organization. This system is designed to streamline academic article search, literature review, automated Machine Learning classification based on the Kurikulum Merdeka framework, as well as AI-powered text summarization and PDF data extraction.
+Welcome to the official profile and documentation of the **Reference System-TS** GitHub organization. This system is designed to streamline academic article search, literature review, automated Machine Learning classification based on the Kurikulum Merdeka framework, as well as AI-powered text summarization and PDF data extraction.
 
 ---
 
@@ -28,7 +28,7 @@ graph TD
     B -->|Database| G[Supabase PostgreSQL]
 ```
 
-### Official Organization Repositories (`AI-Research-TS`)
+### Official Organization Repositories (`Reference System-TS`)
 | Service | Tech Stack | Repository | Description |
 | :--- | :--- | :--- | :--- |
 | **Frontend** | Next.js 14, React, Tailwind CSS, Framer Motion | [Frontend Repository](https://github.com/AI-Research-TS/Frontend.git) | User interface featuring a visual research canvas, search history, and personal article library. |
@@ -218,5 +218,5 @@ graph LR
 ---
 
 ## 👥 Organization & Developers
-- **Organization**: `AI-Research-TS`
+- **Organization**: `Reference System-TS`
 - **Project**: Klipin Smart Reference System
